@@ -37,6 +37,7 @@ Project Structure
 * archive — Folder for training and test images (not included in repo)
 
 Results:
+
     Training and test loss curves are plotted in the notebook.
     Model accuracy is printed after evaluation.
     License
