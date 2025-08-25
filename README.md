@@ -36,10 +36,10 @@ Project Structure
 * requirements.txt — List of required Python packages
 * archive — Folder for training and test images (not included in repo)
 
-Results:
+Results
 
     Training and test loss curves are plotted in the notebook.
-    
+
     Model accuracy is printed after evaluation.
     License
 
