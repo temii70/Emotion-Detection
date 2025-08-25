@@ -14,9 +14,9 @@ Features:
 - Easy-to-follow Jupyter notebook
 
 
-Getting Started
-Prerequisites:
-Python 3.9
+# Getting Started
+Prerequisites>Python 3.9 & Cuda
+
 
 See requirements.txt for all dependencies
 
