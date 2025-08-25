@@ -20,16 +20,15 @@ See requirements.txt for all dependencies
 Installation
 1. Clone the repository:
     git clone https://github.com/temii70/Emotion-Detection.git
-    cd Emotion-Detection
-
+    
 2. Install dependencies:
     pip install -r requirements.txt
 
 3. Download and extract the dataset from https://www.kaggle.com/datasets/msambare/fer2013  into the train and test folders.
 
 Usage
--  Run model.ipynb in Jupyter Notebook or VS Code to train and  evaluate the model.
--  For real-time emotion detection, use the OpenCV webcam script provided.
+-  Run model.ipynb in Jupyter Notebook or your IDE to train and  evaluate the model.
+-  For real-time emotion detection, run the emotion_script.ipynb  provided.
 
 Project Structure
 * model.ipynb — Main notebook for training and evaluation
@@ -37,8 +36,10 @@ Project Structure
 * requirements.txt — List of required Python packages
 * archive — Folder for training and test images (not included in repo)
 
-Results
+Results:
+
     Training and test loss curves are plotted in the notebook.
+    
     Model accuracy is printed after evaluation.
     License
 
