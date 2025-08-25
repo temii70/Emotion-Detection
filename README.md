@@ -1,7 +1,7 @@
 # Emotion-Detection
 Emotion Detection with CNN
 
-This project uses a Convolutional Neural Network (CNN) built with PyTorch to detect emotions from facial images. It includes data preprocessing, model training with early stopping, evaluation, and visualization of results.
+This project uses a Convolutional Neural Network (CNN) built with PyTorch to detect emotions from facial images.The model is trained on the Fer 2013 dataset (32,000+) labelled images. It includes data preprocessing, model training with early stopping, evaluation, and visualization of results.
 
 Features
 Custom CNN architecture for emotion classification
@@ -40,9 +40,8 @@ Project Structure
 This project is licensed under the Apache License.
 
 
-Demo:
+# Demo:
 ![Live Demo](demos/readme.gif)
-
-
+![Live Demo](demos/readme2.gif)
 
 
