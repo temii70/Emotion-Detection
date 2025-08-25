@@ -41,7 +41,12 @@ This project is licensed under the Apache License.
 
 
 # Demo:
+Webcam Live Detection
 ![Live Demo](demos/readme.gif)
+
+Works on multiple faces at the same time
 ![Live Demo](demos/readme2.gif)
 
 
+Next Steps:
+    This is a ongoing project, and as such I will be updating/improving the model and adding other applications as time progresses.
